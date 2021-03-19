@@ -7,7 +7,7 @@
 <li><a href="#sviluppo">Sviluppo</a></li>
 <li><a href="#installazione">Installazione</a></li>
 <li><a href="#contributi">Contributi</a></li>
-<li><a href="#contati">Contatti</a></li>
+<li><a href="#contatti">Contatti</a></li>
 </ol>
 
 <h3><a name="#info">Info</a></h3>
