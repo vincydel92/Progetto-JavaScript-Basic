@@ -7,6 +7,7 @@
 <li><a href="#sviluppo">Sviluppo</a></li>
 <li><a href="#installazione">Installazione</a></li>
 <li><a href="#contributi">Contributi</a></li>
+<li><a href="#lik">Link</a></li>
 <li><a href="#contatti">Contatti</a></li>
 </ol>
 
@@ -20,10 +21,13 @@ Questo è il mio primo progetto che comprende l'uso di JavaScript.
 Ho creato questo progetto usando HTML, CSS e JavaScript.
 
 <h3><a name="#installazione">Installazione</a></h3>
-Per visionare il progetto devi: -Scaricare questo progetto sul tuo desktop. -Aprire il file tramite un editor di testo. -Aprire index.html col tuo browser.
+Per visionare il codice del progetto devi: <br>-Scaricare questo progetto sul tuo desktop. <br>-Aprire i file tramite un editor di testo.
 
 <h3><a name="#contributi">Contributi</a></h3>
 Non ho collaborato per creare il progetto, ma i contributi per migliorarlo sono ben accetti.
+
+<h3><a name="#link">Link</a></h3>
+Questo è il link per provare l'applicazione:https://nifty-turing-aa77bf.netlify.app/.
 
 <h3><a name="#contatti">Contatti</a></h3>
 Vincenzo Delorenzo<br>
