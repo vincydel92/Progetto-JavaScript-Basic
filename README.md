@@ -7,7 +7,7 @@
 <li><a href="#sviluppo">Sviluppo</a></li>
 <li><a href="#installazione">Installazione</a></li>
 <li><a href="#contributi">Contributi</a></li>
-<li><a href="#lik">Link</a></li>
+<li><a href="#link">Link</a></li>
 <li><a href="#contatti">Contatti</a></li>
 </ol>
 
@@ -27,7 +27,7 @@ Per visionare il codice del progetto devi: <br>-Scaricare questo progetto sul tu
 Non ho collaborato per creare il progetto, ma i contributi per migliorarlo sono ben accetti.
 
 <h3><a name="#link">Link</a></h3>
-Questo è il link per provare l'applicazione:https://nifty-turing-aa77bf.netlify.app/.
+Questo è il link per provare l'applicazione: https://nifty-turing-aa77bf.netlify.app/.
 
 <h3><a name="#contatti">Contatti</a></h3>
 Vincenzo Delorenzo<br>
